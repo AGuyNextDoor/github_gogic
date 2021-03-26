@@ -1,4 +1,3 @@
 # github_gogic
 
-This branch is outdated, it still thinks pop country is great. 
-Delete this branch locally and remotely.
+Wow ! Pop country is so great it will last for ever. 
